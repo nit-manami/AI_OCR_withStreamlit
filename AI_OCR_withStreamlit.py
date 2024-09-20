@@ -1,6 +1,3 @@
-pip install easyocr
-pip install streamlit
-
 import numpy as np 
 from PIL import Image, ImageDraw
 import easyocr
